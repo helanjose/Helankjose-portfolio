@@ -63,7 +63,11 @@
   #backpacker{
       margin-top: 15%;
       font-style: italic;
+      margin-right: 100%;
       
+  }
+  #test1{
+      margin-left: 100%;
   }
   #RushEd{
     margin-top: 13%;
