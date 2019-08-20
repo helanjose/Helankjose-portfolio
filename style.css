@@ -61,13 +61,13 @@
       background-image:url("https://miro.medium.com/max/1838/1*92adf06PCF91kCYu1nPLQg.jpeg");
   }
   #backpacker{
-      margin-top: 80px;
-      margin-left: 90px;
+      margin-top: 100px;
       font-style: italic;
+      
   }
   #RushEd{
-    margin-top: 50px;
-    margin-left: 90px;
+    margin-top: 100px;
+    
     font-style: italic;
   }
   #RushEdContent{
@@ -77,13 +77,13 @@
     background-image:url("https://miro.medium.com/max/1838/1*92adf06PCF91kCYu1nPLQg.jpeg");
   }
   #MIRepo{
-    margin-top: 55px;
-    margin-left: 90px;
+    margin-top: 90px;
+    
     font-style: italic;
   }
   #SecondTime{
-    margin-top: 50px;
-    margin-left: 90px;
+    margin-top: 80px;
+    
     font-style: italic;
 
   }
