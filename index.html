@@ -206,8 +206,8 @@
                       </div>
                  <br>
                                 
-                  <div class="card-deck" >
-                        <div class="card bg-white" style="width: 18rem;">
+                  <div class="card-deck" id="carddeck"  >
+                        <div class="card bg-white"  >
                               <img src="img/bca.jpg" style="height: 350px;"    class="card-img-top" alt="mca">
                                    <div class="card-body">
                                        <h4 class="card-title text-dark">Master of Computer Application</h4>
@@ -219,7 +219,7 @@
                           </div>
                                     
 
-                                    <div class="card bg-white" style="width: 18rem;">
+                                    <div class="card bg-white" >
                                         <img src="img/mcagrad.jpg" style="height: 350px" class="card-img-top" alt="bca">
                                             <div class="card-body">
                                                  <h4 class="card-title text-dark">Bachelor of Computer Application</h4>
@@ -229,7 +229,7 @@
                                             </div>
                                     </div>
                                     
-                                    <div class="card bg-white" style="width: 18rem;">
+                                    <div class="card bg-white" >
                                             <img src="img/uw.jpg" style="height: 350px"  class="card-img-top" alt="tim-cook">
                                                 <div class="card-body">
                                                        
@@ -429,7 +429,7 @@
                                              	Hotel information is collected using YELP and FourSquare API is used for Top attractions. 
                                             	For transportation I have used Kayak API to collect the Flights information and display it in the front. 
 
-</div>
+                                          </div>
                                         <div class="modal-footer bg-info" >
                                           <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
                                          
@@ -466,12 +466,12 @@
       
                     <div class="col md-4 text-dark bg-white" id="profile" >
                 
-                       <div class="row">
+                       <div class="row" id="content">
                            <div class="col md-4">
                              <img class="imgprofile" style="width:400px; height:450px;border-radius: 45px ;margin-top: 10px;margin-bottom: 10px;" src="img/helan.jpg">
                             
                            </div>
-                           <div class="col md-4 text-dark">
+                           <div class="col md-4 text-dark" id="table">
                                 
                               <table id="table">
                                              
@@ -521,12 +521,77 @@
             </div>
      </div>
 
-
+<br>
     
+     <div class="container-fluid "> 
+      <div class="row text-center p-3 mb-2 bg-dark text-black">
+            <div class="col-md-12 text-black">
+                <h1 id="contact"> Testimonials </h1>
+                    
+                    </div>
+                          <div class="row" id="testimon">
+                              <div class="col md-4" style="margin-left: 300px" >
+                                
+                                  <div class="card text-white bg-secondary mb-3" style="max-width: 18rem; ">
+                                    <div class="card-header"><img src="img/lan.jpg" width="150px" height="150px" class="rounded-circle center "alt="Cinque Terre">
+
+                                    </div>
+                                <div class="card-body">
+                                      <h5 class="card-title">Secondary card title</h5>
+                                      Helan is an excellent woman in technology. Her background and knowledge is extensive. She learned very quickly and was rarely stressed out by challenges.
+                                       She is a competent developer and she is   always zen to work<!-- Button trigger modal -->
+                                      <button type="button " class="btn btn-secondary text-white" style="font-size: 0.7rem;font-style: italic;" data-toggle="modal" data-target="#testimonial">
+                                          Readmore...
+                                        </button>
+                                        
+                                        <!-- Modal -->
+                                    <div class="modal fade" id="testimonial" tabindex="-1" role="dialog" aria-labelledby="exampleModalScrollableTitle" aria-hidden="true">
+                                       <div class="modal-dialog modal-dialog-scrollable" role="document">
+                                            <div class="modal-content">
+                                              <div class="modal-header">
+                                                
+                                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                  <span aria-hidden="true">&times;</span>
+                                                </button>
+                                              </div>
+                                              <div class="modal-body text-dark">
+                                                always zen to work with as evidenced by her excellent relationship with her teammates.
+                                                  I'm especially   impressed   with her talent for design. Her projects and design were most impressive, streamline and extremely professional. Helan really stands out as a well rounded woman in tech. I'd love to have many more Helan's in our technology field.    
+                                                  
+                                              </div>
+                                              <div class="modal-footer">
+                                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                                
+                                             </div>
+                                          </div>
+                                        </div>
+                                    </div>
+                                                                          
+                               </div>
+                            </div>
+                          </div>
+                            <div class="col md-4" style="margin-left: 310px" >
+                                
+                                  <div class="card text-white bg-secondary mb-3" style="max-width: 18rem; ">
+                                    <div class="card-header"><img src="img/trae.jpg" width="150px" height="150px" class="rounded-circle center" alt="Cinque Terre">
+
+                                    </div>
+                                    <div class="card-body">
+                                      <h5 class="card-title">Secondary card title</h5>
+                                      <p class="card-text">Helan is not only an intelligent and ambitious strategist but also an inspiring student. An innovative person who can be trusted. Always maintains very good relation with others. Can focus on many tasks at once. Highly recommended.  </div>
+                                  </div>
+                            </div>
+                          
+                    
 
 
 
 
+
+                          </div>
+
+    </div>
+     
 
 
 
@@ -543,7 +608,7 @@
 
                          <!-- Footer -->
 <!-- Footer -->
-<footer class="page-footer font-small blue bg-dark">
+<footer class="page-footer  bg-dark">
 
     <!-- Copyright -->
     <div class="footer-copyright text-center py-3">@Helan k jose:
