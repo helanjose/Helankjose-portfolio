@@ -86,7 +86,7 @@ margin-left: 600px;
         width: 100%;
         height: 100% ;
     }
-    #proj1,#proj2,#proj3,#proj4{
+    #proj1,#proj2,#proj3,#proj4,#hard,#soft{
         width: 100% !important;
         height: 100% !important;
 
@@ -107,7 +107,7 @@ margin-left: 600px;
            width: 100%;
            height: 100% ;
        }
-       #proj1,#proj2,#proj3,#proj4,#skill{
+       #proj1,#proj2,#proj3,#proj4,#hard,#soft{
         width: 100% !important;
         height: 100% !important;
 
