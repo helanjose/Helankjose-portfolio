@@ -112,6 +112,13 @@ margin-left: 600px;
         height: 100% !important; 
         
     }
+    .imgprofile{
+        width: 50% !important;
+        height: 50% !important;
+    }
+    #experience{
+        width: 100% !important;
+    }
    }
 
     
@@ -157,7 +164,14 @@ margin-left: 600px;
            
        }
 
+       .imgprofile{
+        width: 50% !important;
+        height: 50% !important;
 
+    }
+    #experience{
+        width: 100% !important;
+    }
 
 }
 
@@ -171,6 +185,13 @@ margin-left: 600px;
         height: 100% !important;
         margin-right: 3px ;
         margin-left: 2px;
+       }
+       .imgprofile{
+           width: 50% !important;
+           height: 50% !important;
+       }
+       #experience{
+           width: 100% !important;
        }
         
        #carddeck{
