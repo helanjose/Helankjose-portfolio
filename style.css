@@ -79,7 +79,7 @@ margin-left: 600px;
      width: 100% !important;
      height: 100% !important;
      margin-right: 3px !important;
-     margin-left: 2px !important;;
+     margin-left: 2px !important;
     }
      
     #carddeck{
@@ -99,14 +99,18 @@ margin-left: 600px;
     #testimon1{
         width: 100% !important;
         height: 100% !important;
-        margin-right: 3px !important;
-        margin-left: 2px !important;;
+       
+        margin-left: 5px !important;
     }
     #testimon2{
         width: 100% !important;
         height: 100% !important; 
-        margin-right: 6px !important;
-        margin-left: 4px !important;;
+       
+    }
+    #testimon3{
+        width: 100% !important;
+        height: 100% !important; 
+        
     }
    }
 
@@ -124,14 +128,18 @@ margin-left: 600px;
        #testimon1{
         width: 50% !important;
         height: 50% !important;
-        margin-right: 3px !important;
-        margin-left: 2px !important;
+       
+        margin-left: 5px !important;
        }
        #testimon2{
         width: 100% !important;
         height: 100% !important; 
-        margin-right: 6px !important;
-        margin-left: 4px !important;;
+       
+    }
+    #testimon3{
+        width: 100% !important;
+        height: 100% !important; 
+      
     }
         
        #carddeck{
@@ -175,16 +183,22 @@ margin-left: 600px;
 
     }
     #testimon1{
-        width: 50% !important;
-        height: 50% !important;
-        margin-right: 3px !important;
-        margin-left: 2px !important;
+        width: 100% !important;
+        height: 100% !important;
+        
+        margin-left: 5px !important;
        }
     #testimon2{
         width: 100% !important;
         height: 100% !important; 
-        margin-right: 6px !important;
-        margin-left: 4px !important;;
+        
+      
+    }
+    #testimon3{
+        width: 100% !important;
+        height: 100% !important; 
+      
+      
     }
     #hard,#soft{
         width: 100% !important;
