@@ -136,11 +136,15 @@ margin-left: 600px;
         width: 50% !important;
         height: 50% !important;
        
-        margin-left: 5px !important;
+        margin-left: 2px !important;
+        margin-right: 4px !important;
        }
        #testimon2{
         width: 100% !important;
         height: 100% !important; 
+        margin-left: 4px !important;
+        margin-right: 6px !important;
+      
        
     }
     #testimon3{
@@ -207,12 +211,14 @@ margin-left: 600px;
         width: 100% !important;
         height: 100% !important;
         
-        margin-left: 5px !important;
+        margin-left: 2px !important;
+        margin-right: 4px !important;
        }
     #testimon2{
         width: 100% !important;
         height: 100% !important; 
-        
+        margin-left: 4px !important;
+        margin-right: 6px !important;
       
     }
     #testimon3{
