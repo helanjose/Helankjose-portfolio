@@ -116,7 +116,11 @@ margin-left: 600px;
         height: auto;
     }
     #experience{
-        width: 50% !important;
+      
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        flex:300px;
     }
     #carddeck1{
         width: 100%;
@@ -177,7 +181,10 @@ margin-left: 600px;
 
     }
     #experience{
-        width: 50% !important;
+        
+        display: flex;
+        flex-wrap: wrap;
+        flex:300px;
     }
     #carddeck1{
         width: 100%;
@@ -201,8 +208,11 @@ margin-left: 600px;
         height: auto;
        }
        #experience{
-           width: 50% !important;
-       }
+        
+        display: flex;
+        flex-wrap: wrap;
+        flex:300px;
+    }
         
        #carddeck{
            width: 100%;
@@ -261,8 +271,11 @@ margin-left: 600px;
         height: auto;
        }
        #experience{
-           width: 50% !important;
-       }
+        
+        display: flex;
+        flex-wrap: wrap;
+        flex:300px;
+    }
         
        #carddeck{
            width: 100%;
